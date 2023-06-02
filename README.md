@@ -7,7 +7,8 @@ KoAlpaca Dataset + FnGuideQA
 
 
 ### Models
-We offer three types of models as follows.
+
+[2023/05/26] v1 버전 : KoAlpaca, Financial Q&A 데이터셋으로 Fine-tuning
 
 
 
