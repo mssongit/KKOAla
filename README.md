@@ -1,6 +1,6 @@
-# KOAla
+## KOAla
 
-KoAla: large language model for korean finance (Polyglot-12.8B based)
+# KoAla: large language model for korean finance (Polyglot-12.8B based)
 
 <p align="center">
 <a href=""><img src="src/imgs/koala.PNG" width="30%"></a>
