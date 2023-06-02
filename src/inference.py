@@ -1,4 +1,5 @@
 # KRAFTON KORani Inference 참조
+# https://github.com/krafton-ai/KORani
 import transformers
 from transformers import AutoTokenizer, AutoModelForCausalLM, StoppingCriteria, StoppingCriteriaList, GenerationConfig
 import torch
