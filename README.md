@@ -1,8 +1,6 @@
 # KOAla
 
-KoAla
 
-KoAlpaca Dataset + FnGuideQA
 
 
 
