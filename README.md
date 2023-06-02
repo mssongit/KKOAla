@@ -1,12 +1,12 @@
 # KOAla
 
-
+KoAla: large language model for korean finance (Polyglot-12.8B based)
 
 
 
 ### Models
 
-[2023/05/26] v1 버전 : KoAlpaca, Financial Q&A 데이터셋으로 Fine-tuning
+[2023/05/26] v1 버전 : Polyglot-12.8B Base, KoAlpaca, Financial Q&A Fine-tuning
 
 
 
