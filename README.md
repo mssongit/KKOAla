@@ -1,6 +1,6 @@
-# KOAla
+# KKOAla
 
-### KoAla: large language model for korean finance (Polyglot-12.8B based)
+### KKoAla: large language model for korean finance (Polyglot-12.8B based)
 
 <p align="center">
 <a href=""><img src="src/imgs/koala.PNG" width="30%"></a>
@@ -15,6 +15,6 @@
 
 | Model                    | Vol | Base | Dataset |                    Huggingface                   |
 | :----------------------- | :------: | :--------------------: | :----------------: | :----------------------------------------------------------: |
-| KoAla-13B-v1         | 26G  |      Polyglot-12.8B      |        KoAlpaca + Financial Q&A        | [Huggingface Link](https://huggingface.co/mssongit/Koala-12.8b-v1)|
-| KoAla-13B-v2 ⭐️      |     |      Polyglot-12.8B      |        kullm-v2 + Financial Q&A         | ING.... |
+| KKoAla-13B-v1         | 26G  |      Polyglot-12.8B      |        KoAlpaca + Financial Q&A        | [Huggingface Link](https://huggingface.co/mssongit/Koala-12.8b-v1)|
+| KKoAla-13B-v2 ⭐️      |     |      Polyglot-12.8B      |        kullm-v2 + Financial Q&A         | ING.... |
 
