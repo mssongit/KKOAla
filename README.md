@@ -16,5 +16,11 @@
 | Model                    | Vol | Base | Dataset |                    Huggingface                   |
 | :----------------------- | :------: | :--------------------: | :----------------: | :----------------------------------------------------------: |
 | KKoAla-13B-v1         | 26G  |      Polyglot-12.8B      |        KoAlpaca + Financial Q&A        | [Huggingface Link](https://huggingface.co/mssongit/Koala-12.8b-v1)|
-| KKoAla-13B-v2 ⭐️      |     |      Polyglot-12.8B      |        kullm-v2 + Financial Q&A         | ING.... |
+| KKoAla-13B-v2 ⭐️      |     |      Polyglot-12.8B      |                                        | ING.... |
 
+
+
+
+## Example
+
+![image](https://github.com/mssongit/KKOAla/assets/95903180/869efec4-0653-4f88-922e-59b7a7412ad0)
