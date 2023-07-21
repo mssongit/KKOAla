@@ -16,8 +16,25 @@
 | Model                    | Vol | Base | Dataset |                    Huggingface                   |
 | :----------------------- | :------: | :--------------------: | :----------------: | :----------------------------------------------------------: |
 | KKoAla-13B-v1         | 26G  |      Polyglot-12.8B      |        KoAlpaca + Financial Q&A        | [Huggingface Link](https://huggingface.co/mssongit/Koala-12.8b-v1)|
-| KKoAla-13B-v2 ⭐️      |     |      Polyglot-12.8B      |                                        | ING.... |
 
+
+## Use
+
+Install
+~~~
+pip install -U torch transformers tokenizers accelerate
+~~~
+
+~~~
+import torch
+from transformers import pipeline, AutoModelForCausalLM
+
+MODEL = "mssongit/Koala-12.8b-v1"
+model = AutoModelForCausalLM.from_pretrained(
+    MODEL,
+    torch_dtype=torch.float16,
+)
+~~~
 
 
 
