@@ -20,7 +20,6 @@
 
 ## Use
 
-Install
 ~~~
 pip install -U torch transformers tokenizers accelerate
 ~~~
